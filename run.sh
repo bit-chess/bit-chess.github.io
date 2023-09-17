@@ -1,1 +1,0 @@
-g++ bitboard/*.c scene/*.c runner/main.c -lCppLinuxSerial -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
